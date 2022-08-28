@@ -1,0 +1,55 @@
+body {
+  background-image: url('https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-14.jpg');
+  font-family: 'DM Mono', monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+/* .contents {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+} */
+.welcome {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: yellow;
+  margin-top: 110px;
+  margin-bottom: 40px;
+}
+
+.card {
+  margin-left: 75px;
+  margin-bottom: 30px;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+}
+.appearances-header {
+  text-align: center;
+  color: yellow;
+}
+
+.film-cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 75px;
+}
+
+.return-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 60px;
+  color: yellow;
+  margin-bottom: 30px;
+}
+
